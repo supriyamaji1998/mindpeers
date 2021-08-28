@@ -42,7 +42,7 @@ export default class NavbarComp extends Component {
             flexDirection: "column",
             alignItems: "center",
             justifyContent: "center",
-          }} //styling Navbar
+          }} //styling Navbar design
           sticky="top"
         >
           <Navbar.Brand href="#">Search Photos</Navbar.Brand>
